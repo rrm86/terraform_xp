@@ -1,3 +1,4 @@
+![Terraform](https://github.com/rrm86/terraform_xp/workflows/Terraform/badge.svg)
 # Terraform_xp
 
 This repo aims to track the knowlodge an experience using terraform
